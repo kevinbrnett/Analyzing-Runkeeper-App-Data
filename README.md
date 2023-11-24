@@ -21,3 +21,11 @@ After loading the data into a pandas dataframe the follow steps were completed t
     - Averages of the columns were used to fill missing data points
 
 ## Exploratory Data Analysis
+The dataframe was masked to subset data between 2013-2018. 
+
+![png](Images/distance_vs_date.png)
+![png](Images/speed_vs_date.png)
+![png](Images/climb_vs_date.png)
+![png](Images/hr_vs_date.png)
+
+> 
